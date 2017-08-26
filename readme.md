@@ -24,3 +24,5 @@ And these steps should be broken down accordingly until we are able to translate
 
 * What should the app do if there is no text value? It should not turn on the light.
 * What should the app do if the text value is not a valid hue value (i.e., "asdf")? It should not turn on the light.
+
+It should also be noted we're writing a lot of code in one function. This is generally bad style. We will later see how we can clarify this work and make it correspond more to how we think about the subtasks of solving this problem using functions.
