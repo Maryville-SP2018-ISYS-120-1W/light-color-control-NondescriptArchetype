@@ -1,4 +1,4 @@
-# Week 3 Lecture Development Example: Light Color Controller
+# In Class Example: Light Color Controller
 
 ### Lecture Development Examples Overview
 
